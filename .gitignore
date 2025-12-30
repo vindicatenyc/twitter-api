@@ -7,3 +7,12 @@ firebase-debug.*.log
 
 # IDE
 *.code-workspace
+
+# Claude settings
+.claude_settings.json
+
+# Environment
+.env
+
+# Worktrees
+.worktrees/
