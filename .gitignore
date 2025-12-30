@@ -1,0 +1,9 @@
+# Auto Claude data directory
+.auto-claude/
+
+# Firebase
+firebase-debug.log
+firebase-debug.*.log
+
+# IDE
+*.code-workspace
